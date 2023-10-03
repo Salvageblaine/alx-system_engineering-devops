@@ -1,0 +1,2 @@
+#!/bin/bash
+grgep -i -A 3 "root" /etc/passwd
